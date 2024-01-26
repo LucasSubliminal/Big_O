@@ -1,0 +1,33 @@
+Part 1
+1. o(n)
+2. o(n)
+3. o(1)
+4. o(n^3)
+5. o(n)
+6. o(n)
+7. o(n log n)
+8. o(2^n)
+9. o(1)
+10. o(n^2)
+
+Part 2
+1. o(n)
+2. o(n)
+3. o(1)
+4. o(n)
+5. o(n^2)
+6. o(n)
+
+Part 3
+1. True
+2. True
+3. False
+4. o(n)
+5. o(n)
+6. o(n)
+7. o(n log n)
+8. o(n)
+9. o(1)
+10. It depends
+11. o(n)
+12. o(n)
